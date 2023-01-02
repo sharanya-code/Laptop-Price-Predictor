@@ -12,6 +12,8 @@ as company, CPU, GPU, etc.
 
 ![image](https://user-images.githubusercontent.com/85218416/210274839-fd95ae51-3478-4479-ac6c-800383d7f2a6.png)
 
+
 ![image](https://user-images.githubusercontent.com/85218416/210274845-7204b6f0-0cfc-4151-9a36-a90c2d9a8aae.png)
+
 
 ![image](https://user-images.githubusercontent.com/85218416/210274849-a2b40bd1-d256-4cb2-bc3e-2b74d6e738eb.png)
